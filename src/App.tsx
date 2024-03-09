@@ -3,7 +3,6 @@ import { Observer } from "./homework/1";
 import RequestComponent from "./homework/2";
 import { FormComponent } from "./homework/3";
 import { ComponentApp } from "./homework/4";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
