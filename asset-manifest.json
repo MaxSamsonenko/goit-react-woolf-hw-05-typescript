@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-05-typescript/static/css/main.073c9b0a.css",
+    "main.js": "/goit-react-woolf-hw-05-typescript/static/js/main.ec8037de.js",
+    "static/js/787.4ff5edd9.chunk.js": "/goit-react-woolf-hw-05-typescript/static/js/787.4ff5edd9.chunk.js",
+    "index.html": "/goit-react-woolf-hw-05-typescript/index.html",
+    "main.073c9b0a.css.map": "/goit-react-woolf-hw-05-typescript/static/css/main.073c9b0a.css.map",
+    "main.ec8037de.js.map": "/goit-react-woolf-hw-05-typescript/static/js/main.ec8037de.js.map",
+    "787.4ff5edd9.chunk.js.map": "/goit-react-woolf-hw-05-typescript/static/js/787.4ff5edd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ec8037de.js"
+  ]
+}
